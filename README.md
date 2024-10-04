@@ -1,7 +1,7 @@
 ALUNOS:
 
-Guilherme Vinícius - RA: 4231925652
-Leonardo Gabriel - RA: 4231921808
+- Guilherme Vinícius - RA: 4231925652
+- Leonardo Gabriel - RA: 4231921808
 
 ##
 
